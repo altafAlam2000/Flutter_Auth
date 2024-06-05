@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646581409212",
+    "project_id": "database-bec27",
+    "storage_bucket": "database-bec27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646581409212:android:f0520a3bab9bef510507b9",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3w19mVQoLf_4GkfxVTAQoSE5XRPNt7pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
